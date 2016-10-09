@@ -1,0 +1,17 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "CS242 Assignment 3.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanchay Javeria",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "promise": "^7.1.1",
+    "xml2js": "^0.4.17"
+  }
+}

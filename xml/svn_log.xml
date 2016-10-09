@@ -1,0 +1,3704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6838">
+<author>javeria2</author>
+<date>2016-10-06T15:05:16.851531Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.1/CSAir</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.1/CSAir/.idea</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries/sanchayjaveria.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment2.1/CSAir/Src</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/Src/Edge.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/Src/Graph.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.1/CSAir/Src/Node.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/TextUI.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/__init__.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/testSuite/Graph_tests.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/testSuite/__init__.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.1/CSAir/Src/testSuite/test_file.json</path>
+</paths>
+<msg>2.1</msg>
+</logentry>
+<logentry
+   revision="6194">
+<author>javeria2</author>
+<date>2016-09-29T10:19:36.348962Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/index</path>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.2/Chess/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/core/chessGame.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/core/chessGame.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment2.0/CSAir</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment2.0/CSAir/.idea</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment2.0/CSAir/Src</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/Src/Edge.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/Src/Graph.py</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment2.0/CSAir/Src/Node.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.0/CSAir/Src/TextUI.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.0/CSAir/Src/__init__.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.0/CSAir/Src/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment2.0/CSAir/Src/testSuite</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.0/CSAir/Src/testSuite/Graph_tests.py</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment2.0/CSAir/Src/testSuite/__init__.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5502">
+<author>javeria2</author>
+<date>2016-09-22T11:16:58.145108Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/COMMIT_EDITMSG</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/FETCH_HEAD</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/HEAD</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/ORIG_HEAD</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/branches</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/config</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/description</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/hooks</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/post-update.sample</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/pre-applypatch.sample</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/pre-commit.sample</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/hooks/pre-push.sample</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/hooks/pre-rebase.sample</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/hooks/update.sample</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/index</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/info</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/info/exclude</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs/HEAD</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs/refs</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/logs/refs/remotes</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/logs/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/logs/refs/remotes/origin/master</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/logs/refs/stash</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/00</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/00/9f43d61d1c22539d09a5701cac0c9b121a6e2c</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/01</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/01/93c2673203020e3726e397a6870107f9e38aa9</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/02</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/02/62c2ba6df7d3a7cae434939a520b9fb922bbfa</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/03</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/03/414ecd2022d41bf139aa314344cc6dd77f73af</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/03/cf6b77b16584e4652d36621392ce24c8289612</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/03/fe4e30b6c213162d7cf30ce54e717d4f4da7ed</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/04</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/04/410eb7f5a92a940d992ea90683e35185cefeae</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/06</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/06/524eb510895b18f25bd4bc382b02585278a987</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/08</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/08/49d1d5b6d82393e848298af12d146943bb61d2</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/09</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/09/4ed43773432f5ef66e291ec95c453541bb4421</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/09/532c8c3b904c46b5bb497e0c70a8869e596359</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/09/c9ecca7b47da7b9963fb13a88139289afe7eae</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0b/fb02dd542e3b1a081aad653ba5f6b61b9d229f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0c/effb9bfa873bfbbfcba37d2d695007c8f20113</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/0d/6e0f5643a569408c7a45218a8de79e77c83606</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/0d/d55c0ce3755eb36dee8b9249b78b2d2c075b2c</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/0e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/0e/82cf0a77b740296eab510af8524dafbec06810</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/14</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/14/3f0451e27e9e35521445a4c95409abf3d98da8</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/18</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/18/6ee8d52bd735d3560a037d1f6cc6aba5a264eb</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/19</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/19/92715b1a1c69f58255628aefa6f944ac8bb2b3</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/1c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/1c/ce62fe253778527fef03599361dd95286e0a35</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/1d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/1d/51b681d5e8fad3f2099d258a457615527cec7d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/1d/b01ff4b8550f8c0a97fa6f5714849aa564dcd6</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/20</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/20/7b0cbb355f554d178c7a32a6ea977609bb53be</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/21</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/21/bd39a1caf914b93698999875f3d36a7979b5a5</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/21/d29ed7a3baf7c12bfabb19ce0e87ed824e2a96</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/21/d8861a64db7494c09901884b5f495a37d91814</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/22</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/22/14856c606c957b213272f8499dd0e3aacfc467</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/22/fccb904ac4c6244b0be10521b0ef725e02abb2</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/24</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/24/1ee62ba290d53432d5aa97a0e62ccd1c0e7e42</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/26</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/26/6b835a1069be8f74e14e81b2a2b45cdadb4f3f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/28</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/28/4d7fecb37ac4caec3a56106cf841280bb72760</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/28/6ab67eb784b91124bf85ff65dec81aad0547a4</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/28/fa4a566ff49d682318242068af9305f2da7c17</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/29</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/29/d56163a15c7b8d785f50b11394da2974973b91</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/2a</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2a/daf1b590f865c7d1a90b34973dbbb832f20a53</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2a/e946cddd14f6332c53d1f0aadc838181892a5b</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2c/dbe7cee7d7b81e264ec04bb0ff70a4d977293d</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2d/2cbfe33437e279476dd0b2eea4e632de3c8e11</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/2d/b751a2013119050b08f68699f6b2d33f2dfcca</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/2e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/2e/93599f9f7730eaf2e64c22318dda6979ce8844</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/2e/97b24d312ff2950ad3d52fda1a6d474bc13ff4</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/2f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/2f/d4da0c24e0cbeeb05444d1fa8c74a1d98ec776</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/2f/eef9e0352cf956e18fcccfd9997f380c1039e1</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/31</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/31/26b1cbb18c6010003f29e0f93f9788f9f5ea98</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/33</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/33/5c62c787a89beced090a5c7d292769a111aec4</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/33/da338f3c6879e5460ec5d0f53279cb8c1df505</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/35</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/35/eb1ddfbbc029bcab630581847471d7f238ec53</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/36</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/36/98a1d4455c7ae8b7688527d367562b5fde593f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/36/c3ec46835a9a9438c0281153b790eda65d554f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/36/d20a2b347b0f635b37ba7828dc965d7dca6d1e</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/37</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/37/0c52d03a1109a82a2a6959ea6c516fc1c686c3</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/37/62a7384a8bad6370e56027a9c1c8b0d68016f0</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/37/774e7518ad69ce7f781878b55cffe2b7dbcd58</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/38</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/38/503d9b5873ccb77c21f7a6729cf4301ade48a5</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/39</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/39/18b28aec60ce8877cbcd5807c24c25bd081e26</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/3a</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/3a/2657f55034c3b588d55e7bcb834429f18cbea3</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/3b</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/3b/5b804499d7e4d2a2f3372cbf9118ce1bb19323</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/3c</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/3c/7a29065bce5b9be6a460510138faa016238bba</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/3e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/3e/b8b1a75eb1eb09750f1d578717628a7773412f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/3f</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/3f/5ca83b3487c57bb584f85c6a530622cd8059dd</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/3f/a5432c10e72fed550213d52b00389c29483854</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/3f/dc4fbadd9f74a6acdd46f3f6e013be67464f51</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/42</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/42/8bdc7870f3d1f4bbedb4bfa39794aeaadda818</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/43</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/43/3b989fef3c8f5109427fa3946a4cc78434c841</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/45</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/45/aa7c762f9fecde8ddb871c27c4c337cff46b01</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/47</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/47/4b59c685d09a9ba5f3a31ae774cfe64433a5f0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/49</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/49/0b22e9011c54c10ff14af33bb72ca48629facd</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4b/37854238cf4b7e4ba86bd7e63c00b31e75ced8</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4b/ec305c0e47be9460357c0d6f5ec192c7e67ae6</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4c/97bdbfdf06c6cbf5770b2d908ab6ead3f8fe9e</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/4d/752a0919856642e4e8763551991a0bedb7b396</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/4d/aaa270f02c13e392c0934ee91db2f582f19a9a</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/4f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/4f/bef4359c136ec1e8b9266bdae0b15d0600ed0b</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/50</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/50/5612440de19f71c14b046fb3ce279244fd6754</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/50/acfa829ed7b58dc51d381ad51f63e0741dc54f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/50/eb092cb1e378f14dce7314ba6eff2f1559ff8f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/51</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/51/d021083146377ecb051a9ae9623f889c9e006c</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/52</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/52/f763d34e442d10752312e9c1e85a529dc06d72</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/54</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/54/042576ab22066de4c474ad6ee640efb7bc7409</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/54/37e7b6941506cc056af186141bb33410239e55</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/54/d2b8f9c65e0e2e7877bf78a6ad7a6c56834292</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/55</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/55/5ff1ca5519bb0962118b2b145d7775c6b2929f</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/56</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/56/e649c7ef6823e722e4a87bd155c08a806c8678</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/57</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/57/0197de7e798df0aee3e49fc9fcaca8dc5b3653</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/58</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/58/6c65a6391b2597299732c991683a739ba52c17</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/58/ff4f7af8f85f7a878a091c98425c75413d9ac0</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/59</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/59/fe96cb34fab964625b8ccf0a07aa52a369df3a</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/5a</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/5a/44a8e48ec35ef2487a33dd01f89d3c0e5a73db</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/5a/79fdc92736d97792f55baf50afedc18f8834e2</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/5b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5b/87d0fce6827fb95a3acc9e94962c649836b262</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5d/766f36c8da869bf81fbae09e6cfb250ce275aa</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5d/e585c5af316b8262eb5847f61faa054fe25f8f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5f</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5f/2d95092d2731c4c74fa1a1cc89a71ce7540e15</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/5f/63b3001824285fa142770bf43531cf67a307e1</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/5f/b5e613803e67980a9efb4da1678755e2dfcda1</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/5f/ee7ba3c464e30ca37a3e45551fad37cc22bab2</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/5f/f0fab40dfa3c75b9bb67b7fccacfb08ce02940</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/60</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/60/feea8819bc5b328dcbf232cae56be6c625ba68</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/62</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/62/2a6ea80cd08aa10eb2b023c1615babb53464d1</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/63</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/63/100a568450f73d9f238454b94c57aff459bf02</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/63/16aaae84b8e2b53c7d4ed156a21420edd6bd6b</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/64</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/64/4979032466c1d27a5ed5301349a191d15784da</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/64/c6ab45fafbf67ebd2837c08a1478307445e4d2</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/64/f2b79ffae3adcbe49855eadf5f52d381d10f05</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/65</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/65/9941870e84069e05291a761570dabcfc8570e3</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/67</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/67/b458b941c818cedfc9820f185fd54575ac4438</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/68</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/68/1c9ddfeb0ddb007d22fc46339f2aebbdfc0c26</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/6a</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/6a/18e2dbd345d21281e5fc28fbb76de49dd99685</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/6c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/6c/373c9416f30138ada7068a80e00e1921758185</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/6c/be8d62dc96c4ff41f241c0e5cae4cacd7db127</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/6e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/6e/aabece9cee932ebaf642599f829c04a59c2886</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/6e/ff32e3fbdf183f7f2108c9ced2cab178d02753</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/6f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/6f/c4b596e3c9a344aebaaff578889ba864a5d4f9</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/70</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/70/ce49d652cd556275fc71667957b0cd86a1845c</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/72</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/72/d5d78b1b9986e7cdb5a175874d0a791e07f120</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/73</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/73/0b4d2d361f7e51ab0177cc67f789ab6c76a8a3</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/73/bc8ffe40f03caa9119ba9d8ebca129a0fda240</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/74</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/74/04b2d25ba05281a106056530d468b3c2f55283</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/74/f340179abb8a1317af1786cde88dbc5e917cd0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/76</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/76/5a941d558c785d4ad973c66b5421e3134cc522</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/76/781036a3af642f3de7a07158eab88a431bfbed</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/76/f39251fd4981d1bfd43115beb909e0a6a99767</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/77</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/77/966fcd0634f10be00a39dcdc174c1dad67c7c3</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/78</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/78/6cd81d3f64ebc27e324edd4d15670373f1084e</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/79</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/79/8be41755f52d7fd1bc58e2b994344e941feb20</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/7c</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/7c/5db3e71c82ceb39e878386e5d863e7d363d5b0</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/7c/d813e6cb7e092c1f02b9ed1447774946b3b488</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/7d</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/7d/ac4610f21de0fde1423e1e6d4551bb7fe9390c</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/7e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/7e/3aed6142dccfffc9de70744d824ae6998461a5</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/80</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/80/32d2def74d4c3b3dd3263372c612e060507cb9</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/80/f211b4a160f023b341aff1c8ac67ec3c7f1170</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/81</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/81/e8fdc5fa9518e7ecb77ffc3d83ce207a075c83</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/82</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/82/4d529da15d5da7fd64c8b25d5be05b8d750b44</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/82/6434526996a057c8f9b1b2c260c1853c660c3a</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/83</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/83/45df19e39dc224d1aa9b608ca72f35e43f924d</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/83/9add78dce3946ac400cff7999c3efc7c14efee</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/85</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/85/bf34b1e2977db2a99c89952063b1b2219b0a7e</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/85/d460da7502461ab6ae77416717a7463d802708</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/85/de707b93b8fad96ac9d6423276577f70afab8e</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/86</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/86/0ab41c305c411fa04d617ce586953029aabfbd</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/87</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/87/0027e02e3bdae6c017ee52b969b03d7cef6d6e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/87/5b0d069d65ad0a1da54f340d2b22b7d3e82251</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/87/7843c62bfd0a4b6a6c0c086210b86c86c27e03</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/89</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/89/0a0fbf000c5d2c255249bfd5cd20eb28b00d75</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/8a</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/8a/52aeb506d55a55679daeea293e22b2c72749c1</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/8a/efad13ea6df2a22fc2fd720164ea7b5dca5b9a</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/8e</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/8e/068672b7e3cee952111cf0c7e711365f3b66f8</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/8f</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/8f/ce780e3f08f64033afd530fbfbb8e809c5d3de</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/93</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/93/879ada8905463ede27ca84b0a2effae491ecef</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/93/8ea5fa71ce8f95685376016fdb829a791b7d44</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/93/9cc9edda4f2ec30e11af5d88a601e8dee821a7</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/94</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/94/4086fcb006a9ad04c205d743cd5742fbeccee6</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/94/9d12b4514021194bfffdf813ca83816e1c1ce5</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/96</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/96/7c2569d0fcdb12358c41ebefae5aa173963fd0</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/96/cc43efa6a0885098044e976cd780bb42c68a70</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/96/eebe61ec4360cff92854fb70473e4643f572ab</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/96/fbdf483c0aeeb27f1cdb2a49d3fb2b4bd41b8d</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/97</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/97/3d6a7d97176091d77c09557be6c1a21e9115bc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/97/fdd6ae0a5073a80d3a18ab2de7305258395dd7</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/99</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/99/01350b87a64a20dc35210062b9da8a13e128ba</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/99/1778faa10c87d6c80090363c5444af6286f5e3</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/9a</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/9a/02cf0cec406816523becff0324a3ef2d7913a3</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/9a/8b9006cc32b993e8f0caa32b0bdf44c0e4d528</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/9a/dc167bded20d92bc068ad2c87a455d411bb11c</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9b/2219660cd02a481f76afcb349bfad84f6098c3</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9c/1288638cf7cc21388cc11de579a64add9f67b2</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9c/3b0884c8d542ef772dc2514716a947959639f7</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9d</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9d/1b8a3965de68cc281ad5cc05a6d0642ac8bb84</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/9e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/9e/f1df1da6e5c0ded5ff0f0eea2cd778c5a40627</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/9f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/9f/36c995c5b9b7ae51f79291d50e59cda54998ac</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9f/89f6118076396588c7a2312cbe667ca65362e1</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/9f/f60cc25f495af20c8de63f1a5a5b8f88112bbc</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a1</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a1/f81a52ef8e9e0fd456230d8ba60889b9497550</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a2</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a2/6620a4969defdcade8f3003567193004126b51</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a3</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a3/6a920093597eb973fecc75d68803b9a57fb08f</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/a4</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a4/1401e3c8442ef990e03261fbc3f5214694479f</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a4/508cfbfcbbb97d1639a63772e87743c1297709</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a4/8576c74462ad81c31607a925368b8abb1b7624</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/a5</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a5/0bab115e73bbdd9d0c9b92035a3379cc177b3b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a5/2f6c2b0bb994fbef8b5764d27619cd0e0440c8</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a6</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a6/2876a6f9668d1e13a960846c9915a865672fa9</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a7</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/a7/7c8240680b9572e1a298cd610a1216860f5e08</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/a8</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a8/abec134d70b500a5c9656749e3e99fe9581899</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/a9</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/a9/e19b1657b4ab22be9809daf6e8e559043d930f</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/aa</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/aa/29e5e73859a79565e4bac66602d5ae42ad255a</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/ac</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ac/02fa4f0673e6c00e4a6d68ea18a619a9e0a897</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ac/f6a275e1739bf17cdfeb7d5f0e202a76ad0817</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/af</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/af/84be5cf8559f62dc45f73b3e1ae34d9da3c8bb</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/af/9b8723f0c5e477798b0faa99c143e8d294b431</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b0</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b0/c119a7493419de1387242b196c8608fdd5caa9</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/b1</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b1/8cd7765148fab4437ebcc4e35ffacc57fa2750</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/b3</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b3/e4a84fc9436af1b9a1ba427442e0b1ea95e847</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b3/e57db897811ef9323c8dc65154b65ca5c0f4dd</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b4</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b4/1b539788713c33253c4f11421465858a0e9726</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b5</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b5/79189b5ec6120ff0da1644c33a32a479e2d414</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b5/d35880472923d4275870bf4202aa9a994ca3c7</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/b6</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b6/356d522eba29ffe1abcfb584f9d397f6358fc1</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/b7</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b7/34c3c26b013b0760d010a6c6427f624d7c014a</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/b8</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b8/de9a2a954d67f84e58944e28546dab4c5bb8dd</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/b9</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/b9/8c3c99e7f4f29d321688a2ab6fc7868f8c3f7f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ba</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ba/c79f5670d598ee72e90e4989de5773f8d3770c</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bb</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bb/7bf6166e716a1da90bdfd30246295baa86138f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bc/5d54eb8f8ab7ac40da57325594a3c6cb9624b4</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bd</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/bd/a0786dde6af7ecbf5ac7c11d11c749e555fcde</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/be</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/be/6359ffacb04009bd2a54627a0fe72367696f86</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/bf</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/bf/34e41e7fea532dfb3c176aa87089acf3aff5dd</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/c3</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/c3/758ececafa77987d8a67b26be2b2018e28f568</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/c4</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c4/b2ba25d823afd4feba17b3653e30ec803f477f</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c4/b50b76724790870a17910f5abbd922347c2f87</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c5</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c5/59e5a7d6fa2fe2d64e0a796714c62d825982fb</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c6</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c6/505ab454c7a9c12c43ac360f01b7671c05669c</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/c6/517849de456f069f88d27918f606b490083d84</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/c6/5db735f7e86d7b3a64ddeca793ff2fa5f7231e</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/c6/a1b136c9276c37bdf3b9b117a548396b1d59a2</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/c8</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/c8/0f14190ad7d8ee12c94976731da762034350b2</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c9</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/c9/5997b731adf3674cfa5d665b2edfbe3b57b451</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ca</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ca/16e6b74e4142fd5a25f872325dacaee5ecdbde</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/cb</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/cb/03b391ddfc2cd17781e4845cf4e666f3529123</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/cb/b376967b24196053652559bea54e586d2e5b3c</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/cc</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/cc/121d1d0b9f92289864ae44507be82c015ced14</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/cd</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/cd/0818b2aee32c87ee09a3fc0bc0d3628825cd51</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/ce</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ce/08c3750aa5b1e786fbab264a63f526a4c525f2</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ce/ac38f5eea88f974384c52af1f1d5e8e18118eb</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d1</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d1/7e1c4b1be72c42fb3c0f3aadb12d4de4cf04f7</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d2</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d2/1ce41deac47195825a45e879f795f2674f45b2</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d2/9525fc794268e544ed3b43635ed39afa8f7847</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d3</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d3/c15ffe58c61147b96c833fe0f53dfd8e6de33d</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/d4</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/d4/971f3cf21fdbb196ef9b033393733fe69a846b</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/d4/fe0b2d7e1df9cd5d7e1eb4f7953d74d157edc0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/d5</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/d5/d94833e568359bcbcd10e4b7c702f858b5e2b5</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/d7</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/d7/347240b6ff4d243853804965ad9eb475ab62d8</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d7/5d238ae99eeeb39e957219fa115d0edc9f0444</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d7/9316723b5f5152053cb6171aca64b2bc2a67bc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d7/b93718c3eaaf92d5ea4a0c09d10c009b7ade3d</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d9</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/d9/67e8dae02d00350ea1f3bbf5cc372eb7772edb</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/d9/c12fa15659454ae8ce22fbf86c02f1da4b6efc</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/dc</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/dc/2086cbb74e68a389f822f4e8e0559f24cf044d</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/dc/56dae0999b71928e34f1f985474dbdf6f327aa</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/df</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/df/94f72ce0f23c191ed78fc327f55619accdac78</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e2</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e2/019435b4adac9b56e6027e281b9a3506154419</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e2/0fad635c5c3e725e777ce898504e3c831ee3fd</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e4</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e4/caf2db8822e4c76e34d72577a3ef5aab759e98</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e5</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e5/a7cacb9a66dd6a738ed8b7c57249d68a88d915</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/e7</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/e7/0b5bd1a53c87a8c870db59898caa7e40cb2df3</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/e7/77ea3c92c326e800a542b43a6f539eb3656eb4</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/e7/bedf3377d40335424fd605124d4761390218bb</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/e8</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/e8/45816008ab55b77caa91b952c20ece38189b83</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/e9</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/e9/6534fb27b68192f27f985d3879e173ec77adb8</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/e9/a80d55d18e77f4364d8f459e9a2ced184354ff</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ea</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ea/0517782dbdbc49fbb93956517b2e5eaf59680e</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ea/b6073bcb7438828b988428535335beb24e2799</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/ea/da87504684f0ce9a89bbe0dce4b0057e511436</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/eb</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/eb/1b63f40d7413f8f135ad4abb4dac92de88b826</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/ec</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ec/28c3e32d9d1bd283389fb999e2b7b8596a3c47</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/ed</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ed/0e1a30c9f6e5dbd72d02f3d6b1249a16d23116</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/ef</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ef/2cfaabddcd4696d3d0cee3775b84b286e96835</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/ef/c1d0ff08d0893aa1fc1530bf501dbaad27f9d4</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f0</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f0/35f8297a7556418f3bb62b7f876977e76ac55b</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f0/84bdebc3b66a38d6921932fe81d70d40835b34</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/f1</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/f1/0dd06df43746ee95abb8cc1aabb0ad6fdce480</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/f1/516cd45da23958e9d31c615924a5bd542b3d86</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/f1/f261c7269e91d8776fc57cb2507e45a239dcd1</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/f2</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/f2/334bc51412be009a786a8db74682019ed30d65</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/f2/7223110320fd8d75aca203a25976d020288392</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f4</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f4/045853eb0c15baaaf71e79d1906cbae3ff9c2f</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f7</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/f7/1824d824c00d2ad8bcaa94d9051f9de5c88560</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/fb</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/fb/a2fff8bee5c52f52036c6454796fff2c4d5600</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/fc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/objects/fc/470ee01cb3695a4979dc5334c270eab91b9a4f</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/fd</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/fd/a0ee515ab9af448023790485bc77b233b751b6</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/fd/d6be52dd222df337d46087e41db2d78ab4e407</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/fe</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.git/objects/fe/f07d4849d2f8da86ade6faf4a930d320745064</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/info</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/objects/pack</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/heads</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.git/refs/stash</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.git/refs/tags</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.idea/dictionaries/sanchayjaveria.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/GUI Test Plan</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/GUI Test Plan/Bookreport.pdf</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/README.md</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/doxygen</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/out</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/artifacts</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/artifacts/Chess_jar</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/artifacts/Chess_jar/Chess.jar</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Controller</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Controller/chessController$1.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Controller/chessController.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/out/production/Chess/MVC</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/MVC/game.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/out/production/Chess/Model</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/core</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/core/Player.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/core/chessBoard.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/core/chessGame.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/Color.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/bishop.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/coordinates.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/ferz.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/king.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/knight.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/pawn.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/pieceType.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/queen.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/rook.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/pieces/wazir.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/bishopTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/boardSetupTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/checkmateTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/ferzTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/kingTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/knightTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/pawnTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/queenTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/rookTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/stalemateTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/Model/testSuite/wazirTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bFerz.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bKing.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bKnight.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bPawn.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bRook.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/bWazir.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wBishop.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wFerz.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wKing.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wRook.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/Assets/wWazir.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/chessBoardGUI$1.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/chessBoardGUI$boardPanel.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/out/production/Chess/View/chessBoardGUI$piecePanel.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/out/production/Chess/View/chessBoardGUI.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/Controller</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Controller/chessController.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/MVC</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/MVC/game.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/Model</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/Model/core</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/core/Player.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/core/chessBoard.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/core/chessGame.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces/Color.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces/bishop.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces/coordinates.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/ferz.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/king.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/knight.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/pawn.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/pieceType.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/queen.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/pieces/rook.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/pieces/wazir.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/bishopTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/boardSetupTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/checkmateTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/ferzTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/kingTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/knightTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/testSuite/pawnTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/testSuite/queenTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/rookTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/Model/testSuite/stalemateTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/Model/testSuite/wazirTests.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/View</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.2/Chess/src/View/Assets</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/bBishop.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/bFerz.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/bKing.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/bKnight.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/bQueen.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/bRook.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/bWazir.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/wBishop.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/wFerz.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/wKing.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.2/Chess/src/View/Assets/wPawn.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/wRook.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/Assets/wWazir.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.2/Chess/src/View/chessBoardGUI.java</path>
+</paths>
+<msg>Assignment 1.2</msg>
+</logentry>
+<logentry
+   revision="4675">
+<author>javeria2</author>
+<date>2016-09-15T16:29:39.733567Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.1/Chess/GUI Test Plan/instructions.txt</path>
+</paths>
+<msg>inst modified</msg>
+</logentry>
+<logentry
+   revision="4673">
+<author>javeria2</author>
+<date>2016-09-15T16:23:51.056422Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.1/Chess/GUI Test Plan/instructions.txt</path>
+</paths>
+<msg>inst modified</msg>
+</logentry>
+<logentry
+   revision="4671">
+<author>javeria2</author>
+<date>2016-09-15T16:23:01.589771Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.1/Chess/GUI Test Plan/instructions.txt</path>
+</paths>
+<msg>inst modified</msg>
+</logentry>
+<logentry
+   revision="4443">
+<author>javeria2</author>
+<date>2016-09-15T01:06:33.893325Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/GUI Test Plan</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/GUI Test Plan/board.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/GUI Test Plan/instructions.txt</path>
+</paths>
+<msg>Test plan added</msg>
+</logentry>
+<logentry
+   revision="4442">
+<author>javeria2</author>
+<date>2016-09-15T01:06:13.071383Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/chessBoardGUI.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4398">
+<author>javeria2</author>
+<date>2016-09-14T23:11:58.170984Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/javeria2/Assignment1.1/Chess/doxygen</path>
+</paths>
+<msg>removed doxygen</msg>
+</logentry>
+<logentry
+   revision="4397">
+<author>javeria2</author>
+<date>2016-09-14T23:09:04.427990Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/Doxyfile</path>
+</paths>
+<msg>doxyfile added</msg>
+</logentry>
+<logentry
+   revision="4394">
+<author>javeria2</author>
+<date>2016-09-14T22:59:52.470938Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/dictionaries/sanchayjaveria.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/doxygen</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/Model</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/core</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/core/Player.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/core/chessBoard.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/core/chessGame.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/Color.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/bishop.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/coordinates.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/ferz.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/king.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/knight.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/pawn.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/pieceType.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/queen.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/rook.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/pieces/wazir.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/bishopTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/boardSetupTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/checkmateTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/ferzTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/kingTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/knightTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/pawnTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/queenTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/rookTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/stalemateTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/Model/testSuite/wazirTests.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/View</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bKing.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bKnight.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bQueen.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/bRook.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wBishop.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wKing.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wKnight.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wPawn.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/Assets/wRook.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/chessBoardGUI$boardPanel.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/chessBoardGUI$piecePanel$1.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/View/chessBoardGUI$piecePanel.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/View/chessBoardGUI.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/Model</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/Model/core</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/core/Player.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/core/chessBoard.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/core/chessGame.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/Model/pieces</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/Color.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/pieces/bishop.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/pieces/coordinates.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/pieces/ferz.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/pieces/king.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/knight.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/pawn.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/pieceType.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/queen.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/pieces/rook.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/pieces/wazir.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/bishopTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/boardSetupTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/checkmateTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/testSuite/ferzTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/testSuite/kingTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/testSuite/knightTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/Model/testSuite/pawnTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/queenTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/rookTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/stalemateTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/Model/testSuite/wazirTests.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/src/View</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/View/Assets</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bBishop.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bKing.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bKnight.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bPawn.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/bRook.png</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/View/Assets/wBishop.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/Assets/wKing.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/Assets/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/Assets/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/Assets/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/Assets/wRook.png</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/View/chessBoardGUI.java</path>
+</paths>
+<msg>assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="4393">
+<author>javeria2</author>
+<date>2016-09-14T22:59:06.961606Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/javeria2/Assignment1.1/Chess</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4392">
+<author>javeria2</author>
+<date>2016-09-14T22:56:19.816511Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.1/Chess/.idea/dictionaries/sanchayjaveria.xml</path>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/doxygen</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4272">
+<author>javeria2</author>
+<date>2016-09-14T06:16:18.700507Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/dictionaries/sanchayjaveria.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/core</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/core/Player.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/core/chessBoard.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/core/chessGame.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/Color.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/bishop.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/coordinates.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/king.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/knight.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/pawn.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/pieceType.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/queen.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/pieces/rook.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/bishopTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/boardSetupTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/checkmateTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/kingTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/knightTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/pawnTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/queenTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/rookTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/out/production/Chess/testSuite/stalemateTests.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/core</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/core/Player.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/core/chessBoard.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/core/chessGame.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/pieces</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/pieces/Color.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/pieces/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/bishop.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/coordinates.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/king.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/knight.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/pawn.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/pieceType.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/queen.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/pieces/rook.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.1/Chess/src/testSuite</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/bishopTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/boardSetupTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/checkmateTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/kingTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/knightTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/pawnTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.1/Chess/src/testSuite/queenTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/testSuite/rookTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.1/Chess/src/testSuite/stalemateTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3497">
+<author>javeria2</author>
+<date>2016-09-08T09:39:19.653598Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/stalemateTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.0/Chess/src/core/chessBoard.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Assignment1.0/Chess/src/core/chessGame.java</path>
+</paths>
+<msg>modified</msg>
+</logentry>
+<logentry
+   revision="3486">
+<author>javeria2</author>
+<date>2016-09-08T09:02:59.746538Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/javeria2/Chess</path>
+</paths>
+<msg>removed wrong wd</msg>
+</logentry>
+<logentry
+   revision="3484">
+<author>javeria2</author>
+<date>2016-09-08T09:01:00.644957Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.0/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.0/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.0/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/out</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/out/production</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/core</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/core/Player.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/core/chessBoard.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/core/chessGame.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/Color.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/Pieces.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/bishop.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/coordinates.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/king.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/knight.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/pawn.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/pieceType.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/queen.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/pieces/rook.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/bishopTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/boardSetupTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/checkmateTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/kingTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/knightTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/pawnTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/queenTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/rookTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/out/production/Chess/testSuite/stalemateTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/src</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/src/core</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/core/Player.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/core/chessBoard.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/core/chessGame.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/src/pieces</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/Color.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/Pieces.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/bishop.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/coordinates.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/king.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/knight.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/pawn.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/pieces/pieceType.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/pieces/queen.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/pieces/rook.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite/bishopTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite/boardSetupTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite/checkmateTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite/kingTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment1.0/Chess/src/testSuite/knightTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/testSuite/pawnTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/testSuite/queenTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/testSuite/rookTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment1.0/Chess/src/testSuite/stalemateTests.java</path>
+</paths>
+<msg>correct working dir</msg>
+</logentry>
+<logentry
+   revision="3482">
+<author>javeria2</author>
+<date>2016-09-08T08:50:45.008438Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/core/Player.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/core/chessBoard.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/core/chessGame.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/Pieces.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/coordinates.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/king.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/pieces/pawn.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/pieces/queen.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/bishopTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/boardSetupTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/checkmateTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/kingTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/knightTests.class</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/out/production/Chess/testSuite/pawnTests.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/testSuite/queenTests.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/out/production/Chess/testSuite/rookTests.class</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/core/Player.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/core/chessBoard.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/core/chessGame.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/pieces/Color.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/pieces/Pieces.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/pieces/coordinates.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/pieces/king.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/pieces/pawn.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/pieces/pieceType.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/pieces/queen.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/testSuite/bishopTests.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/testSuite/boardSetupTests.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/testSuite/checkmateTests.java</path>
+<path
+   kind="file"
+   action="M">/javeria2/Chess/src/testSuite/kingTests.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/testSuite/knightTests.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/testSuite/pawnTests.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/testSuite/queenTests.java</path>
+<path
+   action="M"
+   kind="file">/javeria2/Chess/src/testSuite/rookTests.java</path>
+</paths>
+<msg>stalemate done</msg>
+</logentry>
+<logentry
+   revision="3435">
+<author>javeria2</author>
+<date>2016-09-08T06:19:28.488730Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/Chess.iml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/out</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/out/production</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/out/production/Chess</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/out/production/Chess/core</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/core/Player.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/core/chessBoard.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/core/chessGame.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Chess/out/production/Chess/pieces</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/Color.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/bishop.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/coordinates.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/king.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/knight.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/pieces/pawn.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/pieceType.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/queen.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/pieces/rook.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/out/production/Chess/testSuite</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/testSuite/bishopTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/testSuite/boardSetupTests.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/out/production/Chess/testSuite/checkmateTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/testSuite/kingTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/testSuite/knightTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/testSuite/pawnTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/testSuite/queenTests.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/out/production/Chess/testSuite/rookTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Chess/src</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Chess/src/core</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/core/Player.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/core/chessBoard.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/core/chessGame.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Chess/src/pieces</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/pieces/Color.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/pieces/Pieces.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/pieces/bishop.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/pieces/coordinates.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/pieces/king.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/pieces/knight.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/pieces/pawn.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/pieces/pieceType.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/pieces/queen.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/pieces/rook.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Chess/src/testSuite</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/testSuite/bishopTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Chess/src/testSuite/boardSetupTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/checkmateTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/kingTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/knightTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/pawnTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/queenTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Chess/src/testSuite/rookTests.java</path>
+</paths>
+<msg>chess files added</msg>
+</logentry>
+<logentry
+   revision="2592">
+<author>javeria2</author>
+<date>2016-09-01T08:45:10.308627Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/log.c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/shell.c</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/vector.c</path>
+</paths>
+<msg>added code</msg>
+</logentry>
+<logentry
+   revision="2132">
+<author>javeria2</author>
+<date>2016-08-31T05:52:31.389664Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.DS_Store</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/.project</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/.settings</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/COPYING</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/HW0.iml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/README</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/out</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/out/production/HW0</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/useOutput.txt</path>
+</paths>
+<msg>finished part2</msg>
+</logentry>
+<logentry
+   revision="2130">
+<author>javeria2</author>
+<date>2016-08-31T05:50:37.628284Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2129">
+<author>javeria2</author>
+<date>2016-08-31T05:50:18.870346Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/javeria2/Assignment0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2127">
+<author>javeria2</author>
+<date>2016-08-31T05:47:28.284889Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/javeria2/Assignment0/COPYING</path>
+<path
+   action="D"
+   kind="file">/javeria2/Assignment0/HW0.iml</path>
+<path
+   action="D"
+   kind="dir">/javeria2/Assignment0/bin</path>
+<path
+   action="D"
+   kind="dir">/javeria2/Assignment0/doc</path>
+<path
+   action="D"
+   kind="file">/javeria2/Assignment0/expectedOutput.txt</path>
+<path
+   action="D"
+   kind="file">/javeria2/Assignment0/javadoc.xml</path>
+<path
+   action="D"
+   kind="dir">/javeria2/Assignment0/src</path>
+<path
+   action="D"
+   kind="file">/javeria2/Assignment0/useOutput.txt</path>
+</paths>
+<msg>deleting all</msg>
+</logentry>
+<logentry
+   revision="1549">
+<author>javeria2</author>
+<date>2016-08-29T21:17:40.851143Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/.idea</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/COPYING</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/HW0.iml</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/bin</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/README</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/javeria2/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/javeria2/Assignment0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/javeria2/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/javeria2/Assignment0/useOutput.txt</path>
+</paths>
+<msg>new import</msg>
+</logentry>
+<logentry
+   revision="670">
+<author>javeria2</author>
+<date>2016-08-26T02:08:40.938088Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/javeria2/grocery</path>
+<path
+   kind="dir"
+   copyfrom-path="/javeria2/grocery"
+   copyfrom-rev="669"
+   action="A">/javeria2/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="669">
+<author>javeria2</author>
+<date>2016-08-26T02:07:15.057215Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/javeria2/grocery/list3.txt</path>
+</paths>
+<msg>Decided that I want to be a Vegetarian</msg>
+</logentry>
+<logentry
+   revision="668">
+<author>javeria2</author>
+<date>2016-08-26T02:06:12.184440Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/javeria2/grocery/list3.txt</path>
+</paths>
+<msg>list3 added</msg>
+</logentry>
+<logentry
+   revision="667">
+<author>javeria2</author>
+<date>2016-08-26T02:04:28.910445Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasized importance of carrot</msg>
+</logentry>
+<logentry
+   revision="661">
+<author>javeria2</author>
+<date>2016-08-26T01:38:17.843505Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="581">
+<author>javeria2</author>
+<date>2016-08-25T18:45:44.141783Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>less important vegetables added</msg>
+</logentry>
+<logentry
+   revision="564">
+<author>javeria2</author>
+<date>2016-08-25T18:21:16.012684Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="563">
+<author>javeria2</author>
+<date>2016-08-25T18:12:23.860982Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="562">
+<author>javeria2</author>
+<date>2016-08-25T18:05:31.004222Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/javeria2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="561">
+<author>javeria2</author>
+<date>2016-08-25T18:00:04.564123Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/javeria2/grocery</path>
+<path
+   action="A"
+   kind="file">/javeria2/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/javeria2/grocery/list2.txt</path>
+</paths>
+<msg>first commit</msg>
+</logentry>
+<logentry
+   revision="70">
+<author>root</author>
+<date>2016-08-23T17:56:45.333653Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/javeria2</path>
+</paths>
+<msg>created directory javeria2</msg>
+</logentry>
+</log>
