@@ -24,7 +24,8 @@
 	      			<%info['files'].forEach(function(file){%>
 						<a href="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2/<%- file['title']%>" target="myIframe"><strong class="file-name"><%= file['title']%></strong><br><br></a>
 						<strong>size: </strong><%=file['size']%><br>
-						<strong>type: </strong><%=file['type']%><br><br>
+						<strong>type: </strong><%=file['type']%><br>
+						<strong>path in svn: </strong>https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2/<%=file['title']%><br><br>
 						<strong>version details: </strong><br>
 						<%file['versions'].forEach(function(version){%>
 							<strong>revision: </strong><%= version['revision']%><br>

@@ -4,20 +4,23 @@
 			<author>javeria2</author>
 			<date>2016-10-06T15:05:16.851531Z</date>
 			<paths>
-				<path kind="dir" action="A">/javeria2/Assignment2.1</path>
-				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir</path>
-				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir/.idea</path>
-				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/CSAir.iml</path>
-				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries</path>
-				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries/sanchayjaveria.xml</path>
-				<path action="A" kind="file">/javeria2/Assignment2.1/CSAir/.idea/misc.xml</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.0</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.0/CSAir</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.0/CSAir/.idea</path>
+				<path kind="file" action="A">/javeria2/Assignment2.0/CSAir/.idea/CSAir.iml</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.0/CSAir/.idea/dictionaries</path>
+				<path kind="file" action="A">/javeria2/Assignment2.0/CSAir/.idea/dictionaries/sanchayjaveria.xml</path>
+				<path action="A" kind="file">/javeria2/Assignment2.0/CSAir/.idea/misc.xml</path>
 			</paths>
+			<msg>2.0 first</msg>
 		</logentry>
 		<logentry revision="6839">
 			<author>javeria2</author>
 			<date>2016-10-08T15:05:16.851531Z</date>
 			<paths>
-				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/CSAir.iml</path>
+				<path kind="file" action="A">/javeria2/Assignment2.0/CSAir/.idea/CSAir.iml</path>
+				<path action="A" kind="file">/javeria2/Assignment2.0/CSAir/.idea/misc.xml</path>
 			</paths>
+			<msg>2.0</msg>
 		</logentry>
 	</log>

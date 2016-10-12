@@ -1,7 +1,7 @@
 var assert = require('chai').assert,
-	mocha = require('mocha'),
-	xmlParser = require('../utils/xmlParser.js'),
-  	extractInformation = require('../utils/extractInformation.js');
+  mocha = require('mocha'),
+  xmlParser = require('../utils/xmlParser.js'),
+    extractInformation = require('../utils/extractInformation.js');
 
 //data-structures for parsed XML data (lists)
 var logJSON = [], listJSON = [];
@@ -9,7 +9,7 @@ var logJSON = [], listJSON = [];
 //this data-structure are for holding the relevant bits
 var infoList = [{}];
 
-//test parsing of file
+// test multiple commits of same file and multiple commits of different files
 describe('parse xml files', function(){
 	this.timeout(140000);
 	it('should parse correctly', function(done){
@@ -33,14 +33,15 @@ describe('parse xml files', function(){
         			if(err) {
         				return done(err);
         			}
-          			this.infoList = information;
-
-    				assert.equal(this.logJSON[0]['author'][0], 'javeria2');
-    				assert.equal(this.listJSON[1]['name'][0], 'Assignment2.0/CSAir');
-    				assert.equal(this.infoList[0]['version'], '6194');
+    				this.infoList = information;
+    				assert.equal(this.infoList[0]['files'][2]['versions'][0]['revision'], '6838');
+    				assert.equal(this.infoList[0]['files'][2]['versions'][1]['revision'], '6839');
+    				assert.equal(this.infoList[0]['files'][3]['versions'][0]['msg'], '2.0 first');
+    				assert.equal(this.infoList[0]['files'][3]['versions'][1]['msg'], '2.0');
     				done();
         		});
       		});
     	});
+          			
 	});
 });

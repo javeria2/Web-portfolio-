@@ -135,6 +135,7 @@ function getFileVersions(filename, logs) {
 	var versions = [];
 	logs.forEach(function(log){
 		log['paths'][0]['path'].forEach(function(givenPath){
+
 			if(givenPath['_'] === '/javeria2/' + filename) {
 				versions.push({
 					'revision': log['$']['revision'],
