@@ -13,4 +13,11 @@
 				<path action="A" kind="file">/javeria2/Assignment2.1/CSAir/.idea/misc.xml</path>
 			</paths>
 		</logentry>
+		<logentry revision="6839">
+			<author>javeria2</author>
+			<date>2016-10-08T15:05:16.851531Z</date>
+			<paths>
+				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/CSAir.iml</path>
+			</paths>
+		</logentry>
 	</log>

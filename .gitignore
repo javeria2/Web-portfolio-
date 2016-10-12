@@ -1,0 +1,2 @@
+#ignore node_modules, will be downloaded from package.json file
+node_modules
