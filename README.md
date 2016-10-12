@@ -1,6 +1,6 @@
 # Web portfolio for CS242
 
-- Showcase of all the projects worked upon till now by parsing svn xml files using MongoDB for the databse, node.js and express.js for the server and mocha and chai for unit testing. 
+- Showcase of all the projects worked upon till now by parsing svn xml files using MongoDB for the databse, node.js and express.js for the back-end and mocha and chai for unit testing. 
 - See it in action [here](https://cs242webportfolio.herokuapp.com).
 
 ### Installation
