@@ -22,7 +22,7 @@
 	      	<%infoList.forEach(function(info){%>
 	      		<%if(info['title'] === name){%>	
 	      			<%info['files'].forEach(function(file){%>
-						<a href="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2/<%- file['title']%>" target="myIframe" onload="window.scrollTo(0,0);"><strong class="file-name"><%= file['title']%></strong><br><br></a>
+						<a href="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2/<%- file['title']%>" target="myIframe"><strong class="file-name"><%= file['title']%></strong><br><br></a>
 						<strong>size: </strong><%=file['size']%><br>
 						<strong>type: </strong><%=file['type']%><br><br>
 						<strong>version details: </strong><br>
