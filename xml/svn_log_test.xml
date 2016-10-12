@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<log>
+		<logentry revision="6838">
+			<author>javeria2</author>
+			<date>2016-10-06T15:05:16.851531Z</date>
+			<paths>
+				<path kind="dir" action="A">/javeria2/Assignment2.1</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir/.idea</path>
+				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/CSAir.iml</path>
+				<path kind="dir" action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries</path>
+				<path kind="file" action="A">/javeria2/Assignment2.1/CSAir/.idea/dictionaries/sanchayjaveria.xml</path>
+				<path action="A" kind="file">/javeria2/Assignment2.1/CSAir/.idea/misc.xml</path>
+			</paths>
+		</logentry>
+	</log>

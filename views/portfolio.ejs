@@ -1,9 +1,42 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Portfolio &copy;</title>
-</head>
-<body>
-	<p><%= logJSON %></p>
-</body>
-</html>
+<% include partials/header.ejs %>
+<div class="top"></div>
+<div class="project-listing-body">
+	<div class="container">
+		<div class="ui large breadcrumb">
+	  		<a href="/" class="section">Home</a>
+	  		<i class="fa fa-angle-right" aria-hidden="true"></i>
+	  		<a class="active section">Project Listing</a>
+		</div>
+	</div>
+	<div class="container top_box">
+		<div class="ui raised secondary segment"><div class = "ui huge header">SVN Project Listings</div></div>
+	</div>
+	<div class="ui relaxed divided items custom-segment">
+	 	<%infoList.forEach(function(info, index){%>
+	 	<div class="item">
+    		<div class="ui small image">
+    			<% var path = "/imgs/" + index + ".png"%>
+				<img src="<%-path%>">
+    		</div>
+    		<div class="content">
+				<a class="header"><%=info['title']%></a>
+				<div class="meta">
+  					<a><strong>Date:</strong> <%=info['date']%></a>
+  					<a><strong>Version:</strong> <%=info['version']%></a>
+				</div>
+				<div class="description">
+	  				Most recent commit message: <strong><%=info['msg']%></strong>
+				</div>
+				<div class="extra">
+	  				<a href="/portfolio/<%=info['title']%>/<%=index%>" class="custom-anchor"><div class="ui right floated primary button">
+	    				Read more <i class="fa fa-angle-right" aria-hidden="true"></i>
+	 			 	</div></a>
+	  				<div class="ui label">CS242</div>
+				</div>
+	    	</div>
+		</div>	
+	 	<%});%>
+	</div>
+</div>
+<div class="bottom"></div>
+<% include partials/footer.ejs %>

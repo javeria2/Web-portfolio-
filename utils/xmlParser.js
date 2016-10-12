@@ -1,42 +1,28 @@
+'use strict';
+
 var fs = require('fs'),
 	xml2js = require('xml2js'),
-	parser = new xml2js.Parser(),
-	promise = require('promise');
+	parser = new xml2js.Parser();
 
-// function parse(filename){
-// 	return new promise(function (fulfill, reject){
-// 	    fs.readFile(filename, function (err, data){
-// 	      if (err){
-// 			console.log('cannot read file.');
-// 	      	reject(err);
-// 	      }
-// 	      else {
-// 	      	parser.parseString(data, function(err, result){
-// 				if(err) console.log('cannot parse file.');
-// 				else {
-// 	      			fulfill(result);
-// 				}
-// 			});
-// 	      }
-// 	    });
-//   	});
-// }
-
-function parse(filename, outputJSON, callback){
+/**
+ * [parse - parses a xml file to json]
+ * @param  {[string]}   filename [name of the file to parse]
+ * @param  {Function} callback [callback function]
+ * @return {[Function]}            [returning callback function]
+ */
+function parse(filename, callback){
     fs.readFile(filename, function(err, data){
         if(err){
             console.log('cannot read file.');
-            return callback();
+            return callback(err);
         } else {
             parser.parseString(data, function(err, result){
                 if(err) {
                    console.log('cannot parse file.');
-                   return callback();
+                   return callback(err);
                 }
                 else {
-                    outputJSON = result;
-                    console.log('finished parsing!');
-                    return callback();
+                    return callback(null, result);
                 }
             });
         }

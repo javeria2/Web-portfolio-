@@ -1,0 +1,51 @@
+<% include partials/header.ejs %>
+<div class="top"></div>
+<div class="project-listing-body">
+	
+	<div class="ui items custom-segment">
+		<div class="ui large breadcrumb add-padding">
+		  		<a href="/" class="section">Home</a>
+		  		<i class="fa fa-angle-right" aria-hidden="true"></i>
+		  		<a href="/portfolio" class="section">Project Listing</a>
+		  		<i class="fa fa-angle-right" aria-hidden="true"></i>
+		  		<a class="active section"><%=name%></a>
+		</div>
+	  <div class="item">
+	    <div class="image">
+	      <img src="/imgs/<%-id%>.png">
+	    </div>
+	    <div class="content">
+	      <a class="header header-text"><%= name %></a><br><br>
+	      <div class="meta">
+	      <iframe src="https://www.example.com/" name = "myIframe" id="frame"></iframe><br><br>
+	      <strong>The files in this project are:</strong><br><br>
+	      	<%infoList.forEach(function(info){%>
+	      		<%if(info['title'] === name){%>	
+	      			<%info['files'].forEach(function(file){%>
+						<a href="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2/<%- file['title']%>" target="myIframe" onload="window.scrollTo(0,0);"><strong class="file-name"><%= file['title']%></strong><br><br></a>
+						<strong>size: </strong><%=file['size']%><br>
+						<strong>type: </strong><%=file['type']%><br><br>
+						<strong>version details: </strong><br>
+						<%file['versions'].forEach(function(version){%>
+							<strong>revision: </strong><%= version['revision']%><br>
+							<strong>author: </strong><%= version['author']%><br>
+							<strong>commit message: </strong><%= version['msg']%><br>
+							<strong>Date: </strong><%= version['date']%><br><br><br>
+						<%});%>
+	      			<%});%>
+	      		<%}%>
+	      	<%});%>
+	        <span>Description</span>
+	      </div>
+	      <div class="description">
+	        <p></p>
+	      </div>
+	      <div class="extra">
+	        Additional Details
+	      </div>
+	    </div>
+	  </div>
+	</div>
+</div>
+<div class="bottom"></div>
+<% include partials/footer.ejs %>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<lists>
+		<list path="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2">
+			<entry kind="dir">
+				<name>Assignment0</name>
+				<commit revision="2592">
+					<author>javeria2</author>
+					<date>2016-09-01T08:45:10.308627Z</date>
+				</commit>
+			</entry>
+			<entry kind="file">
+				<name>Assignment0/.DS_Store</name>
+				<size>6148</size>
+				<commit revision="2132">
+					<author>javeria2</author>
+					<date>2016-08-31T05:52:31.389664Z</date>
+				</commit>
+			</entry>
+			<entry kind="file">
+				<name>Assignment0/.classpath</name>
+				<size>307</size>
+				<commit revision="2132">
+					<author>javeria2</author>
+					<date>2016-08-31T05:52:31.389664Z</date>
+				</commit>
+			</entry>
+		</list>
+	</lists>
+	
