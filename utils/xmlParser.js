@@ -7,8 +7,8 @@ var fs = require('fs'),
 /**
  * [parse - parses a xml file to json]
  * @param  {[string]}   filename [name of the file to parse]
- * @param  {Function} callback [callback function]
- * @return {[Function]}            [returning callback function]
+ * @param  {[Function]} callback [callback function]
+ * @return {[Function]}          [returning callback function]
  */
 function parse(filename, callback){
     fs.readFile(filename, function(err, data){
