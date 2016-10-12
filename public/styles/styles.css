@@ -181,7 +181,9 @@ body {
 }
 
 .header-text {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+    border-bottom: 1px solid #000;
+    padding-bottom: 12px;
     font-size: 2rem !important;
 }
 
