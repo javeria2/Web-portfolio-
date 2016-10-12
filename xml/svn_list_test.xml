@@ -2,26 +2,40 @@
 	<lists>
 		<list path="https://subversion.ews.illinois.edu/svn/fa16-cs242/javeria2">
 			<entry kind="dir">
-				<name>Assignment0</name>
-				<commit revision="2592">
+				<name>Assignment2.0</name>
+				<commit revision="6194">
 					<author>javeria2</author>
-					<date>2016-09-01T08:45:10.308627Z</date>
+					<date>2016-09-29T10:19:36.348962Z</date>
+				</commit>
+			</entry>
+			<entry kind="dir">
+				<name>Assignment2.0/CSAir</name>
+				<commit revision="6194">
+					<author>javeria2</author>
+					<date>2016-09-29T10:19:36.348962Z</date>
+				</commit>
+			</entry>
+			<entry kind="dir">
+				<name>Assignment2.0/CSAir/.idea</name>
+				<commit revision="6194">
+					<author>javeria2</author>
+					<date>2016-09-29T10:19:36.348962Z</date>
 				</commit>
 			</entry>
 			<entry kind="file">
-				<name>Assignment0/.DS_Store</name>
-				<size>6148</size>
-				<commit revision="2132">
+				<name>Assignment2.0/CSAir/.idea/CSAir.iml</name>
+				<size>507</size>
+				<commit revision="6194">
 					<author>javeria2</author>
-					<date>2016-08-31T05:52:31.389664Z</date>
+					<date>2016-09-29T10:19:36.348962Z</date>
 				</commit>
 			</entry>
 			<entry kind="file">
-				<name>Assignment0/.classpath</name>
-				<size>307</size>
-				<commit revision="2132">
+				<name>Assignment2.0/CSAir/.idea/misc.xml</name>
+				<size>735</size>
+				<commit revision="6194">
 					<author>javeria2</author>
-					<date>2016-08-31T05:52:31.389664Z</date>
+					<date>2016-09-29T10:19:36.348962Z</date>
 				</commit>
 			</entry>
 		</list>
