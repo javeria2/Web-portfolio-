@@ -1,10 +1,10 @@
 'use strict';
 /**
  * [extractInfo - extracts information from Array]
- * @param  {[Array]}   lists    [an array of dictionaries containing list data]
- * @param  {[Array]}   logs     [an array of dictionaries containing log data]
- * @param  {Function} callback [callback function]
- * @return {[Function]}            [returned callback function]
+ * @param  {[Array]}    lists    [an array of dictionaries containing list data]
+ * @param  {[Array]}    logs     [an array of dictionaries containing log data]
+ * @param  {[Function]} callback [callback function]
+ * @return {[Function]}          [returned callback function]
  */
 function extractInfo(lists, logs, callback){
 
