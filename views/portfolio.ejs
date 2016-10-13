@@ -1,16 +1,23 @@
 <% include partials/header.ejs %>
+<!-- HEADER -->
 <div class="top"></div>
+
 <div class="project-listing-body">
 	<div class="container">
+		<!-- BREAD CRUMB NAVIGATION -->
 		<div class="ui large breadcrumb">
 	  		<a href="/" class="section">Home</a>
 	  		<i class="fa fa-angle-right" aria-hidden="true"></i>
 	  		<a class="active section">Project Listing</a>
 		</div>
 	</div>
+
+	<!-- TOP HEADLINE -->
 	<div class="container top_box">
 		<div class="ui raised secondary segment"><div class = "ui huge header">SVN Project Listings</div></div>
 	</div>
+
+	<!-- MAIN PROJECT TABLE -->
 	<div class="ui relaxed divided items custom-segment">
 	 	<%infoList.forEach(function(info, index){%>
 	 	<div class="item">
@@ -38,5 +45,7 @@
 	 	<%});%>
 	</div>
 </div>
+
+<!-- FOOTER -->
 <div class="bottom"></div>
 <% include partials/footer.ejs %>

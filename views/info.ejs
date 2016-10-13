@@ -1,8 +1,10 @@
 <% include partials/header.ejs %>
+<!-- HEADER -->
 <div class="top"></div>
 <div class="project-listing-body">
 	
 	<div class="ui items custom-segment">
+		<!-- BREAD CRUMB NAVIGATION -->
 		<div class="ui large breadcrumb add-padding">
 		  		<a href="/" class="section">Home</a>
 		  		<i class="fa fa-angle-right" aria-hidden="true"></i>
@@ -10,6 +12,8 @@
 		  		<i class="fa fa-angle-right" aria-hidden="true"></i>
 		  		<a class="active section"><%=name%></a>
 		</div>
+
+	  <!-- MAIN INFO TABLE -->
 	  <div class="item">
 	    <div class="image">
 	      <img src="/imgs/<%-id%>.png">
@@ -45,5 +49,7 @@
 	  </div>
 	</div>
 </div>
+
+<!-- FOOTER -->
 <div class="bottom"></div>
 <% include partials/footer.ejs %>
