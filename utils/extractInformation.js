@@ -1,3 +1,25 @@
+/**
+ * This file parses all the required information about a project in a nice array of dictionaries, a typical entry has the following structure,
+ * [{
+ * 	'title': <title>,
+ *  'date': <js date object>,
+ *  'version': <version>,
+ *  'msg': <msg>,
+ *  'files': [{
+ *  	'title': <title>,
+		'size': <size>,
+		'type': <type>,
+		'kind': <kind>,
+		'versions': [{
+			'revision': <revision>,
+			'author': <author>,
+			'msg': <msg>,
+			'date': <js date object>
+		}]
+ *   }]
+ * }]
+ */
+
 'use strict';
 /**
  * [extractInfo - extracts information from Array]
