@@ -140,11 +140,11 @@ body {
 }
 
 .custom-segment {
-     margin-right: 100px !important; 
-     margin-left: 100px !important;
      background: rgb(243, 244, 245);
      padding: 30px;
      border-radius: 10px;
+     max-width: 1270px;
+     margin: 0 auto !important;
 }
 
 .inner-comments-border:hover,

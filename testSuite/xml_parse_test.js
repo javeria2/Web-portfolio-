@@ -1,7 +1,7 @@
 var assert = require('chai').assert,
-	mocha = require('mocha'),
-	xmlParser = require('../utils/xmlParser.js'),
-  	extractInformation = require('../utils/extractInformation.js');
+  	mocha = require('mocha'),
+  	xmlParser = require('../utils/xmlParser.js'),
+    extractInformation = require('../utils/extractInformation.js');
 
 //data-structures for parsed XML data (lists)
 var logJSON = [], listJSON = [];
