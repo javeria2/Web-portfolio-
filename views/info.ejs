@@ -12,7 +12,6 @@
 		  		<i class="fa fa-angle-right" aria-hidden="true"></i>
 		  		<a class="active section"><%=name%></a>
 		</div>
-
 	  <!-- MAIN INFO TABLE -->
 	  <div class="item">
 	    <div class="image">
@@ -46,11 +45,10 @@
 	        <p><a href="/portfolio/<%-name%>/<%-id%>/new/null" class="positive ui button">Add new comment</a></p>
 	      </div>
 	    <!-- =======DISPLAY THE COMMENTS HERE======= -->
-
 		<div class="ui comments">
-			<%var count = 0, initialCount = numberOfComments, toggle=0;%>
+			<%var count = 0, toggle=0;%>
 			   <%for(var i =0; i<comments.length; i++){%>
-	   					<%if(comments[i].comment_parent == id){%>
+	   					<%if(comments[i].parent_project_id == id && comments[i].comment_parent == 0){%>
 	   						<%toggle += 1;%>
 	   						<%if(toggle > 1){%>
 	   							<%while(this.count != 0){%>
@@ -92,7 +90,6 @@
 	  </div>
 	</div>
 </div>
-
 <!-- FOOTER -->
 <div class="bottom"></div>
 <% include partials/footer.ejs %>

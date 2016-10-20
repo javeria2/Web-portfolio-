@@ -128,22 +128,29 @@ body {
 .top_box {
     margin: 50px auto;
     margin-bottom: 100px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     text-align: center;
+}
+
+.custom-segment,
+.inner-comments-border,
+.comment-border,
+.top_box {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 
 .custom-segment {
      margin-right: 100px !important; 
      margin-left: 100px !important;
      background: rgb(243, 244, 245);
-     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-     transition: all 0.3s cubic-bezier(.25,.8,.25,1);
      padding: 30px;
      border-radius: 10px;
 }
 
+.inner-comments-border:hover,
+.comment-border:hover,
 .custom-segment:hover {
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
 .custom-anchor {
@@ -203,9 +210,9 @@ button.ui.green.button.submit-button {
 .inner-comments-border {
     background-color: #fff !important;
     padding: 20px !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
-.inner-comments-border:hover {
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+.comment-border {
+    background-color: rgba(194, 222, 237, 0.6);
+    padding: 30px;
 }
