@@ -31,7 +31,6 @@ body {
     text-decoration: none;
     color: #fff;
     text-shadow: none;
-    /*border-radius: 100px;*/
     display: inline-block; /* to give some padding, a mix between inline and block elements*/
     padding: 8px 20px;
     font-weight: 200;
@@ -44,22 +43,11 @@ body {
     background-color: transparent;
 }
 
-.btn-border:link, .btn-border:visited {
-    color: #fff;
-    margin-left: 20px;
-}
-
 /* BUTTON STATES */
 .btn-regular:hover, .btn-regular:active {
     color: #000;
     background-color: #fff;
 }
-
-.btn-border:hover, .btn-border:active {
-    color: #000;
-    background-color: #fff;
-}
-
 
 /*==========*/
 /* HOMEPAGE */
@@ -195,4 +183,29 @@ body {
   outline: none;
   height: 500px;
   width: 100%;
+}
+/*==========*/
+/* COMMENTS */
+/*==========*/
+.comments-custom {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1140px;
+    margin-top: 50px;
+}
+button.ui.green.button.submit-button {
+    margin-top: 20px;
+}
+.actions {
+    margin-left: 40px;
+}
+
+.inner-comments-border {
+    background-color: #fff !important;
+    padding: 20px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.inner-comments-border:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }

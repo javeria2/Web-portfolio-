@@ -4,13 +4,28 @@ var express = require('express'),
 	ejs = require('ejs'),
 	xmlParser = require('./utils/xmlParser.js'),
   bodyparser = require('body-parser'),
-  extractInformation = require('./utils/extractInformation.js');
+  extractInformation = require('./utils/extractInformation.js'),
+  mysql = require('mysql');
 
 //save the pain of writing .ejs after each render
 app.set("view engine","ejs");
 
 //lookup js and css in public directory __dirname refers to current dir
 app.use(express.static(__dirname + "/public"));
+
+//req will now contain a new object called 'body'
+app.use(bodyparser.urlencoded({extended: true}));
+
+//connect to the database
+var connection = mysql.createConnection({
+  host:'localhost',
+  user:'root',
+  password:'sanchay',
+  database:'portfolio',
+  multipleStatements: false
+});
+connection.connect();
+
 
 //data-structures for parsed XML data (lists)
 var logJSON = [], listJSON = [];
@@ -21,20 +36,68 @@ var infoList = [{}];
 //initial page counter
 var initCounter = 0;
 
-//description for each project
-app.get('/portfolio/:name/:id', function(req, res){
+//add a new comment for each project (new comment route)
+app.get('/portfolio/:name/:id/new/:commentid', function(req, res){
+  var comment_parent = req.params.commentid;
+
   if(initCounter === 0) {
     res.redirect('/');
   } else {
-    res.render('info', {
+    res.render('comment', {
       name: req.params.name,
       id: req.params.id,
-      infoList: this.infoList
+      comment_parent: comment_parent
     });
   }
 });
 
-//portfolio route
+//description for each project (project description route)
+app.get('/portfolio/:name/:id', function(req, res){
+  if(initCounter === 0) {
+    res.redirect('/');
+  } else {
+    var passInfoList = this.infoList;
+    connection.query('select * from comments where parent_project_id = ' + connection.escape(req.params.id), function(err, result){
+      if(err) {
+        console.log(err);
+        return;
+      }
+      connection.query('select * from comments where comment_parent = 0', function(err, currentResult){
+        res.render('info', {
+          name: req.params.name,
+          id: req.params.id,
+          infoList: passInfoList,
+          comments: result,
+          numberOfComments: currentResult.length
+        });
+      });
+    });
+  }
+});
+
+//description for each project (post route for comments)
+app.post('/portfolio/:name/:id/:comment_parent', function(req, res){
+    var comment = req.body.comment;
+    var parent = req.params.comment_parent;
+    if(parent == 'null') {
+      parent = 0;
+    }
+    var new_comment = {
+      parent_project_id: req.params.id,
+      comment_body: comment,
+      comment_parent: parent
+    };
+    var query = connection.query('insert into comments set ?', new_comment, function(err, result){
+      if(err) {
+        console.log(err);
+        return;
+      } else {
+        res.redirect('/portfolio/' + req.params.name + '/' + req.params.id);
+      }
+    });
+});
+
+//portfolio route (project listing route)
 app.get('/portfolio', function(req, res, next){
     initCounter = 1;
     //first step, parse xml file to JSON

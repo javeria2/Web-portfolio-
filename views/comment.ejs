@@ -1,0 +1,11 @@
+<% include partials/header.ejs %>
+<div class="comments-custom">
+	<form class="ui form" method="POST" action="/portfolio/<%-name%>/<%-id%>/<%-comment_parent%>">
+	  <div class="field">
+	    <label>Comment</label>
+	    <textarea rows="2" name="comment" placeholder="add new comment.."></textarea>
+	    <button class="ui green button submit-button" type="submit">Post!</button>
+	  </div>
+	</form>
+</div>
+<% include partials/footer.ejs %>

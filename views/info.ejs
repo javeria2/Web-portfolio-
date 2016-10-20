@@ -40,11 +40,54 @@
 	      			<%});%>
 	      		<%}%>
 	      	<%});%>
-	        <span>Description</span>
+	        <span>Comments:</span>
 	      </div>
 	      <div class="description">
-	        <p><%=name%> was made as a part of CS242's MP.</p>
+	        <p><a href="/portfolio/<%-name%>/<%-id%>/new/null" class="positive ui button">Add new comment</a></p>
 	      </div>
+	    <!-- =======DISPLAY THE COMMENTS HERE======= -->
+
+		<div class="ui comments">
+			<%var count = 0, initialCount = numberOfComments, toggle=0;%>
+			   <%for(var i =0; i<comments.length; i++){%>
+	   					<%if(comments[i].comment_parent == id){%>
+	   						<%toggle += 1;%>
+	   						<%if(toggle > 1){%>
+	   							<%while(this.count != 0){%>
+	   								<%this.count -= 1;%>
+	   								</div>
+	   							<%}%>
+	   							</div>
+	   						<%}%>
+	   						<%this.count = 0;%>
+	   						<div class="comment inner-comments-border">
+	   							<div class="content">
+	   								<div class="metadata"><span class="date"><%= comments[i].ts.toTimeString().slice(0, -15) %></span></div>
+	   								<div class="text"><%=comments[i].comment_body%></div>
+	   								<div class="actions"><a href="/portfolio/<%-name%>/<%-id%>/new/<%-comments[i].comment_id%>" class="reply">Reply</a></div>
+	   							</div>
+
+	   					<%}%>
+	   					<%for(var j =i+1; j<comments.length; j++){%>
+								<%if(comments[j].comment_parent == comments[i].comment_id){%>
+									<% this.count += 2; %>
+									<div class="comments">
+										<div class="comment inner-comments-border">
+											<div class="content">
+												<div class="metadata"><%= comments[j].ts.toTimeString().slice(0, -15) %></span></div>
+												<div class="text"><%=comments[j].comment_body%></div>
+	   								 			<div class="actions"><a href="/portfolio/<%-name%>/<%-id%>/new/<%-comments[j].comment_id%>" class="reply">Reply</a></div>
+											</div>
+								<%}%>
+	   					<%}%>
+				<%}%>
+	   			<%while(this.count != 0){%>
+						<%this.count -= 1;%>
+						</div>
+		   		<%}%> 
+		   		</div>
+		</div>
+	    <!-- ============== -->
 	    </div>
 	  </div>
 	</div>
