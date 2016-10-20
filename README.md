@@ -1,6 +1,6 @@
 # Web portfolio for CS242
 
-- Showcase of all the projects worked upon till now by parsing svn xml files using MongoDB for the databse, node.js and express.js for the back-end and mocha and chai for unit testing. 
+- Showcase of all the projects worked upon till now by parsing svn xml files using mySQL (Yes! you heard it right, Node with relational db) for the databse, node.js and express.js for the back-end and mocha and chai for unit testing. 
 - See it in action [here](https://cs242webportfolio.herokuapp.com).
 
 ### Installation
@@ -9,6 +9,5 @@ If you prefer nodemon instead (like me), type in ```nodemon app.js```
 
 ### Todos
 
- - Week 3.1
  - Week 3.2
 
